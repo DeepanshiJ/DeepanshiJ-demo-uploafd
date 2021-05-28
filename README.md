@@ -1,2 +1,2 @@
-# DeepanshiJ-demo-uploafd
+# DeepanshiJ-demo-upload
 demo to upload the code on github
